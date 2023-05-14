@@ -1,0 +1,53 @@
+export default [
+  {
+    id: 1,
+    city: 'Dondra Point',
+    bl: '6.67m',
+    swh: '1.42m',
+    ep: '10.21s',
+    wp: '7.47kW/m',
+    color: 'red',
+    coordinates: [5.932041, 80.591057],
+    value: 2,
+  },
+/*   {
+    id: 2,
+    city: 'Colombo',
+    bl: '9.61m',
+    swh: '1.36m',
+    ep: '9.92s',
+    wp: '7.54kW/m',
+    color: 'red',
+    coordinates: [6.927079, 79.861244],
+    value: 2,
+  }, */
+  {
+    id: 3,
+    city: 'Jaffna',
+    bl: '9.61m',
+    swh: '1.36m',
+    ep: '9.92s',
+    wp: '7.54kW/m',
+    color: 'red',
+    coordinates: [9.661498, 80.025547],
+    value: 2,
+  },
+  {
+    id: 4,
+    city: 'Mahawelli Point',
+    bl: '5.69m',
+    swh: '1.27m',
+    ep: '10.52s',
+    wp: '6.18kW/m',
+    color: 'red',
+    coordinates: [7.730997, 81.674730],
+    value: 0,
+  },
+/*   {
+    id: 5,
+    city: 'Trincomalee',
+    color: 'red',
+    coordinates: [8.592200, 81.196793],
+    value: 80,
+  }, */
+];
